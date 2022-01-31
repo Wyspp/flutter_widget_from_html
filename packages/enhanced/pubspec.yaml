@@ -16,6 +16,7 @@ dependencies:
     git: 
       url: https://github.com/wyspp/flutter_widget_from_html
       path: packages/fwfh_chewie
+      ref: chewie-package-source
   fwfh_just_audio: ^0.6.2+2
   fwfh_selectable_text: ^0.8.3+1
   fwfh_svg: ^0.7.2
